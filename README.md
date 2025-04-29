@@ -6,6 +6,8 @@ Le principe est simple : si vous arrêtez d'écrire pendant quelques secondes, v
 L'objectif est de maintenir votre concentration maximale, sans vous arrêter pour corriger ou réfléchir à chaque mot.  
 Des débuts de phrases aléatoires sont proposés pour stimuler votre imagination si vous manquez d'inspiration.
 
+![image](https://github.com/user-attachments/assets/44aa4292-38f7-4a6e-bb9a-558058355cd5)
+
 ---
 
 ## Pourquoi l'écriture continue favorise l'état de flow
@@ -21,6 +23,3 @@ Des recherches publiées dans *Frontiers in Psychology* montrent que le flow est
 - **Conditions optimales pour entrer en flow** :  
 Selon *Positive Psychology*, pour atteindre l'état de flow, il faut des objectifs clairs, un bon équilibre entre défi et compétence, et un retour immédiat. L'écriture sans s'arrêter satisfait ces conditions en permettant un engagement constant.  
 👉 *Référence* : *Positive Psychology* ([Article explicatif](https://positivepsychology.com/theory-psychology-flow/)).
-
-
-![image](https://github.com/user-attachments/assets/44aa4292-38f7-4a6e-bb9a-558058355cd5)
